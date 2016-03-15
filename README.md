@@ -1,0 +1,1 @@
+# Ocr_min_de_datos
